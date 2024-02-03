@@ -1,0 +1,2 @@
+class MissionRankNotCompatible(Exception):
+  pass
